@@ -1,1 +1,1 @@
-<img src="https://disktree.net/8wtf2.png">
+<img src="8wtf2.png">
